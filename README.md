@@ -21,8 +21,9 @@
 
 ## Projects
 • [Python Data Analysis](https://github.com/Jalyn48595/Python_Analysis_Samples)  
+• [Machine Learning Analysis]()  
 • [SQL Queries](https://github.com/Jalyn48595/SQL_Query_Samples) 
-• [ABAP Reporting]()
+• [ABAP Reporting](https://github.com/Jalyn48595/ABAP_Samples)
 
 ## Tools
 
