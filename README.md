@@ -14,7 +14,7 @@
 
 ## Skills
 
-• Data Analysis using Python (Pandas, NumPy, MatplotLib, Seaborn)  
+• Data Analysis using Python (Pandas, Scipy, NumPy, MatplotLib, Statsmodels, Seaborn, SKLearn)  
 • Querying data using SQL  
 • Creating dashboards on SalesForce  
 • Reporting using Excel, SalesForce and Powerpoint  
