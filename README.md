@@ -20,10 +20,9 @@
 • Reporting using Excel, SalesForce and Powerpoint  
 
 ## Projects
-
-•SQL Queries  
-•Python Analysis   
-•SAP Reporting 
+• [Python Data Analysis](https://github.com/Jalyn48595/Python_Analysis_Samples)  
+• SQL Queries  
+• SAP Reporting 
 
 ## Tools
 
