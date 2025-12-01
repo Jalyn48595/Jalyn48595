@@ -21,8 +21,8 @@
 
 ## Projects
 • [Python Data Analysis](https://github.com/Jalyn48595/Python_Analysis_Samples)  
-• SQL Queries  
-• SAP Reporting 
+• [SQL Queries](https://github.com/Jalyn48595/SQL_Query_Samples) 
+• [ABAP Reporting]()
 
 ## Tools
 
